@@ -9,7 +9,7 @@ export default function Home({ results }) {
     <div>
       <Head>
         <title>Hulu | Fryker 1.0</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="favico.png" />
       </Head>
       {/**Header section */}
       <Header />
